@@ -51,7 +51,11 @@
 			} ,
 			{
 				name: "Donuts",
-				quantity: "10"
+				quantity: "16"
+			} , 
+			{
+				name: "Cookies",
+				quantity: "7"
 			}
 		];
 		this.getToBuyItems = function() {
